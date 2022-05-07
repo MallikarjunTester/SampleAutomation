@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33652" started-at="2022-05-07T05:53:21Z" finished-at="2022-05-07T05:53:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33652" started-at="2022-05-07T05:53:21Z" finished-at="2022-05-07T05:53:54Z">
+      <class name="com.test.sample.practice_automation.tests.AutomationScripts">
+        <test-method status="PASS" signature="setupBrowserDriverPath()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="setupBrowserDriverPath" is-config="true" duration-ms="191" started-at="2022-05-07T05:53:21Z" finished-at="2022-05-07T05:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowserDriverPath -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="initBrowser" is-config="true" duration-ms="4870" started-at="2022-05-07T05:53:21Z" finished-at="2022-05-07T05:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="validateBasicAuthByProvidingCorrectUNandPWD()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="validateBasicAuthByProvidingCorrectUNandPWD" duration-ms="658" started-at="2022-05-07T05:53:26Z" finished-at="2022-05-07T05:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBasicAuthByProvidingCorrectUNandPWD -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="teardown" is-config="true" duration-ms="650" started-at="2022-05-07T05:53:26Z" finished-at="2022-05-07T05:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="initBrowser" is-config="true" duration-ms="4844" started-at="2022-05-07T05:53:27Z" finished-at="2022-05-07T05:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="validateFileUpload()[pri:1, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="validateFileUpload" duration-ms="2462" started-at="2022-05-07T05:53:32Z" finished-at="2022-05-07T05:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFileUpload -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="teardown" is-config="true" duration-ms="654" started-at="2022-05-07T05:53:34Z" finished-at="2022-05-07T05:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="initBrowser" is-config="true" duration-ms="4832" started-at="2022-05-07T05:53:35Z" finished-at="2022-05-07T05:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="validateFormAuthenticationForValidUNandPWD()[pri:2, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="validateFormAuthenticationForValidUNandPWD" duration-ms="1525" started-at="2022-05-07T05:53:40Z" finished-at="2022-05-07T05:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFormAuthenticationForValidUNandPWD -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="teardown" is-config="true" duration-ms="651" started-at="2022-05-07T05:53:41Z" finished-at="2022-05-07T05:53:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="initBrowser" is-config="true" duration-ms="4471" started-at="2022-05-07T05:53:42Z" finished-at="2022-05-07T05:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="validateFormAuthenticationForInvalidUNandPWD()[pri:3, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="validateFormAuthenticationForInvalidUNandPWD" duration-ms="1530" started-at="2022-05-07T05:53:46Z" finished-at="2022-05-07T05:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFormAuthenticationForInvalidUNandPWD -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="teardown" is-config="true" duration-ms="650" started-at="2022-05-07T05:53:48Z" finished-at="2022-05-07T05:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="initBrowser" is-config="true" duration-ms="4662" started-at="2022-05-07T05:53:49Z" finished-at="2022-05-07T05:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="validateCheckboxStatus()[pri:4, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="validateCheckboxStatus" duration-ms="515" started-at="2022-05-07T05:53:53Z" finished-at="2022-05-07T05:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCheckboxStatus -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.sample.practice_automation.tests.AutomationScripts@78b1cc93]" name="teardown" is-config="true" duration-ms="654" started-at="2022-05-07T05:53:54Z" finished-at="2022-05-07T05:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.sample.practice_automation.tests.AutomationScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
